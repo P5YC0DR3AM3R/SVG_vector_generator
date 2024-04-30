@@ -37,7 +37,7 @@ https://p5yc0dr3am3r.github.io/SVG_vector_generator
 
 ![Screenshot of the project](./Images/Screenshot.png)
 
-<video src="./Sequence_1.MOV" controls></video>
+<video src="./Sequence_1.mp4" controls></video>
 
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
