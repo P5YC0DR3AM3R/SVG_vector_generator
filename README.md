@@ -37,6 +37,8 @@ https://p5yc0dr3am3r.github.io/SVG_vector_generator
 
 ![Screenshot of the project](./Images/Screenshot.png)
 
+https://p5yc0dr3am3r.github.io/SVG_vector_generator/Sequence_1.mp4
+
 <video src="./Sequence_1.mp4" controls></video>
 
 ## License
